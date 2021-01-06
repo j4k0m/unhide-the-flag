@@ -3,6 +3,7 @@ unhide the flag ! stego challenge by Lelouche01
 
 # Challenge:
 There is a hidden flag inside the picture , and your job is to write a code or whatever you use to extract the flag from the nun picture.png
+
 ![img](https://media.discordapp.net/attachments/794339193051414609/796241961300131850/stegano.png)
 
 # Hint:
