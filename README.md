@@ -1,0 +1,20 @@
+# unhide-the-flag
+unhide the flag ! stego challenge by Lelouche01
+
+# Challenge:
+There is a hidden flag inside the picture , and your job is to write a code or whatever you use to extract the flag from the nun picture.png
+![img](https://media.discordapp.net/attachments/794339193051414609/796241961300131850/stegano.png)
+
+# Hint:
+
+```
+77 101 115 115 97 103 101 32 108 101 110 103 116 104 32 61 32 52 53 32 44 32 80 110 103 32 112 105 99 116 117 114 101 32 105 
+115 32 97 32 99 111 108 108 101 99 116 105 111 110 32 111 102 32 66 105 108 108 105 111 110 115 32 111 102 32 112 105 120 101 
+108 115 32 44 32 97 110 100 32 107 101 101 112 32 105 110 32 109 105 110 100 32 116 104 97 116 32 101 97 99 104 32 99 111 108 
+111 114 32 102 114 111 109 32 116 104 101 32 82 71 66 32 104 97 115 32 97 32 118 97 108 117 101 32 98 101 116 119 101 101 110 
+32 48 32 45 32 50 53 53
+```
+
+# Challenge Author:
+
+@Lelouche01 - Amine Ait Ouazghour
